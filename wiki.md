@@ -2,21 +2,29 @@
 
 ## Update the modpack
 
-Step 1: Remove BepIneXPack and select Uninstall all (it's will be remove ALL mod)
-![Step1](https://github.com/JusteLoneWolf/LethalBonneCompany/blob/main/IMG/Step1.png)
-![Step1.2](https://github.com/JusteLoneWolf/LethalBonneCompany/blob/main/IMG/Step1-2.png)
+**__Step 1__**: Remove BepIneXPack and select Uninstall all (it's will be remove ALL mod)
 
-Step 2: Remove all remaining mods if you have any as the first step
+<img src="https://raw.githubusercontent.com/JusteLoneWolf/LethalBonneCompany/main/IMG/Step1.png" alt="Step1.png" width="350"/>
+<img src="https://raw.githubusercontent.com/JusteLoneWolf/LethalBonneCompany/main/IMG/Step1-2.png" alt="Step1-2.png" width="350"/>
 
-Step 3: Search in ThunderStore the modpack "LethalBonneCompany" and install it
-![Step3](https://github.com/JusteLoneWolf/LethalBonneCompany/blob/main/IMG/Step%203.png)
+**__Step 2__**: Remove all remaining mods if you have any as the first step
 
-Step 4: Enjoy It ! 
+**__Step 3__**: Search in ThunderStore the modpack "LethalBonneCompany" and install it
+
+<img src="https://raw.githubusercontent.com/JusteLoneWolf/LethalBonneCompany/main/IMG/Step%203.png" alt="Step3.png" width="300"/>
+
+**__Step 4__**: Enjoy It !
 
 
 ## Troubleshooting
 
-### Error occurred when joining a friend with this modpack
-if you have LCSoundTool you need to activate the networking in config file, and set it on true and save
-![T1-1](https://github.com/JusteLoneWolf/LethalBonneCompany/blob/main/IMG/T1-1.png)
-![T1-2](https://github.com/JusteLoneWolf/LethalBonneCompany/blob/main/IMG/T1-2.png)
+### __Error occurred when joining a friend with this modpack__
+if you have **LCSoundTool** you need to activate the networking in config file, and set it on true and save
+
+<img src="https://raw.githubusercontent.com/JusteLoneWolf/LethalBonneCompany/main/IMG/T1-1.png" alt="T1-1.png" width="550"/>
+<img src="https://raw.githubusercontent.com/JusteLoneWolf/LethalBonneCompany/main/IMG/T1-2.png" alt="T1-2" width="550"/>
+
+if is not solved send an issue here => https://github.com/JusteLoneWolf/LethalBonneCompany/issues with your mod list (screenshot or other)
+
+
+Thanks using my modpack ! <font size="1"> UwU </font>
