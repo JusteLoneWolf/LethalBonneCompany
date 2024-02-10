@@ -18,6 +18,7 @@
 
 ## Troubleshooting
 
+---
 ### __Error occurred when joining a friend with this modpack__
 if you have **LCSoundTool** you need to activate the networking in config file, and set it on true and save
 
@@ -26,5 +27,6 @@ if you have **LCSoundTool** you need to activate the networking in config file, 
 
 if is not solved send an issue here => https://github.com/JusteLoneWolf/LethalBonneCompany/issues with your mod list (screenshot or other)
 
+---
 
 Thanks using my modpack ! <font size="1"> UwU </font>
